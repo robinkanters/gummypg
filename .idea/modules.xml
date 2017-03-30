@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gummypg.iml" filepath="$PROJECT_DIR$/.idea/modules/gummypg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gummypg_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gummypg_main.iml" group="gummypg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gummypg_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gummypg_test.iml" group="gummypg" />
+    </modules>
+  </component>
+</project>
